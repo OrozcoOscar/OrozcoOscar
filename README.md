@@ -7,6 +7,7 @@ Mis habilidades incluyen:
 - 💻 **JavaScript y Frameworks Relacionados:** Conocimiento en JavaScript y su ecosistema, incluyendo Node.js y React.
 - 🐍 **Python:** Experiencia en el desarrollo de aplicaciones utilizando Python y sus bibliotecas.
 - 🚀 **PHP y Laravel:** Habilidades en PHP y experiencia específica en el framework Laravel para el desarrollo web.
+- ☕ **Java:** Experiencia en el desarrollo de aplicaciones Java para aplicaciones empresariales y sistemas embebidos.
 - 🗃️ **Bases de Datos:** Experiencia en el manejo de bases de datos, incluyendo MySQL, MongoDB y PostgreSQL.
 - 🔧 **C y C++:** Conocimientos en programación de bajo nivel utilizando C y C++.
 - 🌐 **Frontend:** Conocimientos sólidos en HTML y CSS, y un poco de experiencia en Angular para el desarrollo frontend.
