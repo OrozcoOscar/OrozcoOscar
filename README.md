@@ -4,13 +4,16 @@ Soy un apasionado desarrollador con experiencia en diversas tecnologías y un en
 
 Mis habilidades incluyen:
 
-- 💻 **JavaScript y Frameworks Relacionados:** Conocimiento en JavaScript y su ecosistema, incluyendo Node.js y React.
+- 💻 **JavaScript y Frameworks Relacionados:** Amplio conocimiento en JavaScript y su ecosistema, incluyendo Node.js y React.
+- ☕ **Java:** Experiencia en el desarrollo de aplicaciones Java para aplicaciones empresariales y sistemas embebidos.
 - 🐍 **Python:** Experiencia en el desarrollo de aplicaciones utilizando Python y sus bibliotecas.
 - 🚀 **PHP y Laravel:** Habilidades en PHP y experiencia específica en el framework Laravel para el desarrollo web.
-- ☕ **Java:** Experiencia en el desarrollo de aplicaciones Java para aplicaciones empresariales y sistemas embebidos.
 - 🗃️ **Bases de Datos:** Experiencia en el manejo de bases de datos, incluyendo MySQL, MongoDB y PostgreSQL.
 - 🔧 **C y C++:** Conocimientos en programación de bajo nivel utilizando C y C++.
-- 🌐 **Frontend:** Conocimientos sólidos en HTML y CSS, y un poco de experiencia en Angular para el desarrollo frontend.
+- 🌐 **Frontend:** Conocimientos sólidos en HTML, CSS, y un poco de experiencia en Angular para el desarrollo frontend.
+- 🛠️ **Creación de Extensiones:** Experiencia en el desarrollo de extensiones para navegadores y otras plataformas.
+- 🕸️ **Web Scraping:** Habilidades en la extracción de datos de sitios web para diversas aplicaciones.
+- 🤖 **Automatización Web:** Experiencia en la automatización de tareas en la web para mejorar la eficiencia y productividad.
 
 Estoy siempre dispuesto a nuevos retos y oportunidades para aprender y crecer en el mundo del desarrollo. No dudes en contactarme si tienes un proyecto interesante en el que crees que puedo contribuir o si necesitas ayuda con alguna idea innovadora.
 
