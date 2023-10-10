@@ -14,6 +14,10 @@ Mis habilidades incluyen:
 - 🛠️ **Creación de Extensiones:** Experiencia en el desarrollo de extensiones para navegadores y otras plataformas.
 - 🕸️ **Web Scraping:** Habilidades en la extracción de datos de sitios web para diversas aplicaciones.
 - 🤖 **Automatización Web:** Experiencia en la automatización de tareas en la web para mejorar la eficiencia y productividad.
+  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=OrozcoOscar&theme=tokyonight&show_icons=true)
+
+![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=OrozcoOscar&layout=compact&theme=tokyonight)
 
 Estoy siempre dispuesto a nuevos retos y oportunidades para aprender y crecer en el mundo del desarrollo. No dudes en contactarme si tienes un proyecto interesante en el que crees que puedo contribuir o si necesitas ayuda con alguna idea innovadora.
 
