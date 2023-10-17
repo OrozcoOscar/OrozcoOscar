@@ -26,6 +26,7 @@ Estoy siempre dispuesto a nuevos retos y oportunidades para aprender y crecer en
 
 - 📱 [Dolar](https://github.com/OrozcoOscar/Dolar): Biblioteca en js para facilitar el uso de Canvas y la gestión del Dom, también proporciona diferentes funciones.
 - 📱 [Chord Standard](https://chordstandard.onrender.com/): Una app donde podras encontrar los acordes de canciones para tocar,esta hecha en react y usa PWA para funcionar offline.
+- 📱 [Colmena](https://github.com/OrozcoOscar/colmena): Aplicación de escritorio para gestión de inventario y ventas,hecha con React y electron.
 - ...
 
 ## Contacto
