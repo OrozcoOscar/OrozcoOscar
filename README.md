@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Oscar Orozco, Desarrollador de Aplicaciones Web
 
-Soy un apasionado desarrollador con experiencia variada y un enfoque especializado en el desarrollo web. A pesar de mi limitada experiencia en desarrollo móvil, estoy siempre dispuesto a enfrentar nuevos retos y aprender rápidamente para adaptarme a las demandas cambiantes. Tengo habilidades para planificar, ejecutar y supervisar proyectos de sistemas de información, y disfruto resolviendo problemas complejos a través de la programación. Estoy abierto a aprender nuevas tecnologías para seguir creciendo en mi carrera como desarrollador.
+Soy un apasionado desarrollador con más de siete años de experiencia en el campo de la programación, enfocado principalmente en el desarrollo web. Aunque mi experiencia en el desarrollo móvil y de escritorio es algo limitada, estoy siempre dispuesto a afrontar nuevos retos y aprender cosas nuevas para expandir mis habilidades. Poseo habilidades para planificar, ejecutar y supervisar proyectos de sistemas de información, y me encanta resolver problemas complejos mediante la programación. Estoy completamente abierto a adquirir conocimientos en nuevas tecnologías con el objetivo de seguir creciendo y evolucionando en mi carrera como desarrollador.
 
 Mis habilidades incluyen:
 
