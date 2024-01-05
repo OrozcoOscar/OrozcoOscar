@@ -20,13 +20,14 @@ Mis habilidades incluyen:
 ![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=OrozcoOscar&layout=compact&theme=tokyonight)
 
 Estoy siempre dispuesto a nuevos retos y oportunidades para aprender y crecer en el mundo del desarrollo. No dudes en contactarme si tienes un proyecto interesante en el que crees que puedo contribuir o si necesitas ayuda con alguna idea innovadora.
+## [Portafolio](https://portafolio-oscar-orozco.netlify.app/)
 
 
 ## Proyectos Destacados
 
 - 📱 [Dolar](https://github.com/OrozcoOscar/Dolar): Biblioteca en js para facilitar el uso de Canvas y la gestión del Dom, también proporciona diferentes funciones.
 - 📱 [Chord Standard](https://chordstandard.onrender.com/): Una app donde podras encontrar los acordes de canciones para tocar,esta hecha en react y usa PWA para funcionar offline.
-- 📱 [Colmena](https://github.com/OrozcoOscar/colmena): Aplicación de escritorio para gestión de inventario y ventas,hecha con React y electron.
+- 📱 [Colmena](https://orozcooscar.github.io/colmena/): Aplicación de escritorio para gestión de inventario y ventas,hecha con React y electron.
 - ...
 
 ## Contacto
