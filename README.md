@@ -23,12 +23,21 @@ Estoy siempre dispuesto a nuevos retos y oportunidades para aprender y crecer en
 ## [Portafolio](https://portafolio-oscar-orozco.netlify.app/)
 
 
+¡Claro! Aquí tienes una versión pulida para la sección de "Proyectos Destacados":
+
+---
+
 ## Proyectos Destacados
 
-- 📱 [Dolar](https://github.com/OrozcoOscar/Dolar): Biblioteca en js para facilitar el uso de Canvas y la gestión del Dom, también proporciona diferentes funciones.
-- 📱 [Chord Standard](https://chordstandard.onrender.com/): Una app donde podras encontrar los acordes de canciones para tocar,esta hecha en react y usa PWA para funcionar offline.
-- 📱 [Colmena](https://orozcooscar.github.io/colmena/): Aplicación de escritorio para gestión de inventario y ventas,hecha con React y electron.
-- ...
+- 📱 **[Eatypos](https://eatypos.com/)**: Sistema POS intuitivo diseñado para optimizar la gestión de ventas e inventario en pequeños negocios.
+
+- 📱 **[Chord Standard](https://chordstandard.onrender.com/)**: Una aplicación React con soporte PWA que te permite encontrar acordes de canciones para tocar. Ideal para músicos que necesitan acceso offline a sus partituras.
+
+- 📱 **[Dolar](https://github.com/OrozcoOscar/Dolar)**: Biblioteca en JavaScript que simplifica el uso de Canvas y la gestión del DOM, ofreciendo diversas funciones para desarrolladores web.
+
+- 📱 **[Colmena](https://orozcooscar.github.io/colmena/)**: Aplicación de escritorio desarrollada con React y Electron para la gestión de inventario y ventas, brindando una solución robusta para el control empresarial.
+
+---
 
 ## Contacto
 
