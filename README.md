@@ -22,8 +22,6 @@ Mis habilidades incluyen:
 Estoy siempre dispuesto a nuevos retos y oportunidades para aprender y crecer en el mundo del desarrollo. No dudes en contactarme si tienes un proyecto interesante en el que crees que puedo contribuir o si necesitas ayuda con alguna idea innovadora.
 ## [Portafolio](https://portafolio-oscar-orozco.netlify.app/)
 
----
-
 ## Proyectos Destacados
 
 - 📱 **[Eatypos](https://eatypos.com/)**: Sistema POS intuitivo diseñado para optimizar la gestión de ventas e inventario en pequeños negocios.
@@ -34,7 +32,6 @@ Estoy siempre dispuesto a nuevos retos y oportunidades para aprender y crecer en
 
 - 📱 **[Colmena](https://orozcooscar.github.io/colmena/)**: Aplicación de escritorio desarrollada con React y Electron para la gestión de inventario y ventas, brindando una solución robusta para el control empresarial.
 
----
 
 ## Contacto
 
