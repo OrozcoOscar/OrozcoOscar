@@ -22,9 +22,6 @@ Mis habilidades incluyen:
 Estoy siempre dispuesto a nuevos retos y oportunidades para aprender y crecer en el mundo del desarrollo. No dudes en contactarme si tienes un proyecto interesante en el que crees que puedo contribuir o si necesitas ayuda con alguna idea innovadora.
 ## [Portafolio](https://portafolio-oscar-orozco.netlify.app/)
 
-
-¡Claro! Aquí tienes una versión pulida para la sección de "Proyectos Destacados":
-
 ---
 
 ## Proyectos Destacados
