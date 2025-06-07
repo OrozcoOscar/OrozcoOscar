@@ -38,6 +38,6 @@ Estoy siempre dispuesto a nuevos retos y oportunidades para aprender y crecer en
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme:
 
 - 💼 LinkedIn: [Oscar Orozco](https://www.linkedin.com/in/oscarorozcopacheco/)
--    Hoja de vida (CV) [aquí](https://acortar.link/pnSsJw)
+-    Hoja de vida (CV) [aquí](https://acortar.link/5EQwpd)
 
 ¡Gracias por visitar mi perfil! 😊
