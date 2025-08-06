@@ -1,6 +1,7 @@
 # Oscar Orozco - ing de Sistemas y Desarrollador
 
-Soy un apasionado desarrollador con más de 3 años de experiencia en el campo de la programación, enfocado principalmente en el desarrollo web. Además, poseo conocimientos en el desarrollo móvil y de escritorio. Siempre estoy dispuesto a afrontar nuevos retos y aprender cosas nuevas para expandir mis habilidades. Tengo destrezas para planificar, ejecutar y supervisar proyectos de sistemas de información, y disfruto resolviendo problemas complejos mediante la programación. Estoy completamente abierto a adquirir conocimientos en nuevas tecnologías con el objetivo de seguir creciendo y evolucionando en mi carrera como desarrollador.
+Ingeniero de Sistemas y desarrollador web fullstack con más de 3 años de experiencia liderando proyectos desde la concepción hasta la implementación. Especializado en el desarrollo de aplicaciones escalables utilizando tecnologías como React.js, Node.js. Con experiencia en automatización de procesos, web scraping y creación de soluciones eficientes tanto en frontend como backend. Destacado por resolver problemas técnicos complejos y colaborar con equipos multidisciplinarios para lograr productos de alto 
+impacto.
 
 Mis habilidades incluyen:
 
@@ -38,6 +39,6 @@ Estoy siempre dispuesto a nuevos retos y oportunidades para aprender y crecer en
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme:
 
 - 💼 LinkedIn: [Oscar Orozco](https://www.linkedin.com/in/oscarorozcopacheco/)
--    Hoja de vida (CV) [aquí](https://drive.google.com/file/d/1Jk6zYng-JxPDzW_CMIcvAYNNvlbIHsl8/view?usp=sharing)
+-    Hoja de vida (CV) [aquí](https://drive.google.com/file/d/1nmQtX1KfioeYoVVsZudl_Tly8810cJar/view?usp=drive_link)
 
 ¡Gracias por visitar mi perfil! 😊
