@@ -1,4 +1,4 @@
-# Oscar Orozco - ing de Sistemas y Desarrollador
+# Oscar Orozco - Ing de Sistemas y Desarrollador
 
 Ingeniero de Sistemas y desarrollador web fullstack con más de 3 años de experiencia liderando proyectos desde la concepción hasta la implementación. Especializado en el desarrollo de aplicaciones escalables utilizando tecnologías como React.js, Node.js. Con experiencia en automatización de procesos, web scraping y creación de soluciones eficientes tanto en frontend como backend. Destacado por resolver problemas técnicos complejos y colaborar con equipos multidisciplinarios para lograr productos de alto 
 impacto.
